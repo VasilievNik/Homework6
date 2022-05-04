@@ -30,8 +30,8 @@ public class Main {
             System.out.print(reverseFullName[j]);
         }
         //------------------------------------------------------------------------
+        int done = 1;
     }
-
 
     public static int[] generateRandomArray() {
         java.util.Random random = new java.util.Random();
@@ -41,4 +41,5 @@ public class Main {
         }
         return arr;
     }
+    //done
 }
